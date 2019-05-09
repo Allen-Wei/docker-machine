@@ -1,0 +1,1 @@
+docker-machine create --driver=virtualbox --virtualbox-disk-size=51200 --virtualbox-memory=2048 --virtualbox-cpu-count=2 --virtualbox-boot2docker-url="https://raw.githubusercontent.com/Allen-Wei/docker-machine/master/boot2docker.iso" --virtualbox-share-folder=\\?\C:\Users:\mount\Users dev
