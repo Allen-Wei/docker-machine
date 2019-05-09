@@ -1,0 +1,1 @@
+docker-machine create --driver=vmwareworkstation --vmwareworkstation-disk-size=51200 --vmwareworkstation-memory-size=2048 --vmwareworkstation-cpu-count=2 --vmwareworkstation-boot2docker-url="https://raw.githubusercontent.com/Allen-Wei/docker-machine/master/boot2docker.iso" dev
